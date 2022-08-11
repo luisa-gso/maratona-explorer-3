@@ -61,6 +61,7 @@ select {
 
 section h2 {
     background-color: #FED7AA;
+    border-radius: 10px;
     padding: 8px 16px;
     text-align: center;
 
